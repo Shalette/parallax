@@ -3,17 +3,16 @@
 }
 body {
   margin: 0;
-  padding:0;
-  height:1000px;
 }
-.content {
+#parallax {
   height: 1000px;
   display: block;
 }
-
-.layer1, .layer2, .layer3, .layer4, .layer5, .layer6, .layer7, .layer8{
-position: fixed;
-top: 0;
-width: 100%;
+#parallax img {
+  position: fixed;
+  top: 0;
+  background-position: center !important;
+  transform: translateY(0px);
   height: 980px;
+  width: 100%;
 }
