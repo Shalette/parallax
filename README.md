@@ -1,2 +1,2 @@
-# Shalette.github.io
-Current Interests - Will be updated soon.
+# Parallax
+Simple javascript used to showcase the parallax effect. 
